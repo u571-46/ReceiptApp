@@ -1,0 +1,2 @@
+rootProject.name = "ReceiptApp"
+include(':app')
